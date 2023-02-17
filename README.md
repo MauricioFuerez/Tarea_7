@@ -137,10 +137,39 @@ TRANSFORMADORES CON TOMAS Y DEVANADOS MULTIPLES: El transformador básico tiene 
 
 # CAPITULO 13 : -Ejercicios pares
 
+![13-1](https://user-images.githubusercontent.com/117534483/219700922-e748e1c6-ec13-4bcf-baa3-9d5be2e09199.jpg)
 
+![13-2](https://user-images.githubusercontent.com/117534483/219700924-a12d9213-d811-43d4-83a5-0e89a6cea993.jpg)
+
+![13-3](https://user-images.githubusercontent.com/117534483/219700925-90fa65f0-b631-4c22-bc3d-efdfb9cce9b8.jpg)
+
+![13-4](https://user-images.githubusercontent.com/117534483/219700930-986a1960-767d-456e-82f1-a217a8c6086c.jpg)
+
+![13-5](https://user-images.githubusercontent.com/117534483/219700932-4ed57d0b-8cee-48bf-afe1-38defa2f072b.jpg)
+
+![13-6](https://user-images.githubusercontent.com/117534483/219700933-a4e0497e-deef-455b-a1dc-87bf871eb67a.jpg)
+
+![13-7](https://user-images.githubusercontent.com/117534483/219700934-a526f107-5ee6-428a-9c69-56f2c20a12b2.jpg)
+
+![13-8](https://user-images.githubusercontent.com/117534483/219700935-a94c2e29-cb88-4d3e-a36e-e19e51777f69.jpg)
+
+![13-9](https://user-images.githubusercontent.com/117534483/219700939-f51a155e-06bc-42a3-bb8d-fdeb1e053762.jpg)
 
 # CAPITULO 14 : -Ejercicios pares
 
+![14-1](https://user-images.githubusercontent.com/117534483/219701018-19fe9272-6552-4d1b-8afd-da76a375840c.jpg)
+
+![14-2](https://user-images.githubusercontent.com/117534483/219701022-18dc7d7d-c9cf-4348-bab0-952a09a8901d.jpg)
+
+![14-3](https://user-images.githubusercontent.com/117534483/219701025-2668088b-ea6a-4258-9ba0-71fef283a599.jpg)
+
+![14-4](https://user-images.githubusercontent.com/117534483/219701029-59bd28ae-ae60-4df4-9481-d8b42aeb38e8.jpg)
+
+![14-5](https://user-images.githubusercontent.com/117534483/219701031-db1925bc-ec1a-46d5-a497-6e1801e81ef9.jpg)
+
+![14-6](https://user-images.githubusercontent.com/117534483/219701033-5217ba5f-7c43-4185-ba0e-cfa8e03e4565.jpg)
+
+![14-7](https://user-images.githubusercontent.com/117534483/219701036-fa1f83d4-83a8-475b-a716-95e89db8f168.png)
 
 # 4.VIDEO
 
@@ -148,7 +177,49 @@ TRANSFORMADORES CON TOMAS Y DEVANADOS MULTIPLES: El transformador básico tiene 
 
 # 5.CONCLUSIONES
 
+◆ La inductancia es una medida de la capacidad de una bobina para establecer voltaje inducido como resultado de un cambio en su corriente.
 
+◆ Un inductor se opone al cambio de su propia corriente.
+
+◆ La ley de Faraday establece que el movimiento relativo entre un campo magnético y una bobina induce cierto voltaje en la bobina.
+
+◆ La cantidad de voltaje inducido es directamente proporcional a la inductancia y a la rapidez de cambio en la corriente.
+
+◆ La ley de Lenz establece que la polaridad del voltaje inducido es tal que la corriente inducida resultante fluye en una dirección que se opone al cambio del campo magnético que la produjo.
+
+◆ Un inductor guarda energía en su campo magnético.
+
+◆ Un henry es la cantidad de inductancia cuando la corriente, que cambia a razón de un ampere por segundo, induce un volt en el inductor.
+
+◆ La inductancia es directamente proporcional al cuadrado de la cantidad de vueltas, a la permeabilidad, y al área de sección transversal del núcleo. Es inversamente proporcional a la longitud del núcleo.
+
+◆ La permeabilidad de un material de núcleo indica la capacidad del material para establecer un campo magnético.
+
+◆ La constante de tiempo de un circuito RL dispuesto en serie es la inductancia dividida entre la resistencia.
+
+◆ En un circuito RL, el voltaje y la corriente crecientes o menguantes en un inductor provocan un cambio del 63% durante cada intervalo de constante de tiempo
+
+◆ Un transformador normal consta de dos o más bobinas acopladas magnéticamente en un núcleo común.
+
+◆ Existe inductancia mutua entre dos bobinas acopladas magnéticamente.
+
+◆ Cuando cambia la corriente en una bobina, se induce voltaje en la otra bobina.
+
+◆ El primario es el devanado conectado a la fuente, y el secundario es el devanado conectado a la carga.
+
+◆ El número de vueltas en el primario y el número de vueltas en el secundario determinan la relación de vueltas.
+
+◆ Las polaridades relativas de los voltajes primario y secundario son determinadas por la dirección de los devanados alrededor del núcleo.
+
+◆ La relación de vueltas de un transformador elevador es mayor que 1.
+
+◆ La relación de vueltas de un transformador reductor es menor que 1.
+
+◆ Un transformador no puede incrementar la potencia.
+
+◆ En un transformador ideal, la potencia de la fuente (potencia entrada) es igual a la potencia suministrada a la carga (potencia de salida).
+
+◆ Si el voltaje se eleva, la corriente se reduce y viceversa
 
 # 6.BIBLIOGRAFÍA
 
