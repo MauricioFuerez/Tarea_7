@@ -173,7 +173,7 @@ TRANSFORMADORES CON TOMAS Y DEVANADOS MULTIPLES: El transformador básico tiene 
 
 # 4.VIDEO
 
--  
+- https://youtu.be/GO1QjpPV9tA
 
 # 5.CONCLUSIONES
 
